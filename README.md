@@ -1,6 +1,8 @@
 # background-generator-javascript
 Background color generator. Linear gradient CSS Selector code generator.
 
+Javascript (frontend)
+
 "A picture is worth a thousand words"
 
 ![Screen Shot 2019-09-30 at 8 02 13 PM](https://user-images.githubusercontent.com/5779193/65923585-d565fb80-e3bf-11e9-9cb7-20b746014a8d.png)
