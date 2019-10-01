@@ -1,7 +1,10 @@
 # background-generator-javascript
 Background color generator. Linear gradient CSS Selector code generator.
 
-Javascript (frontend)
+
+Remembering the past(Javascript, frontend) a little bit, where we came from.
+
+Playing around with javascript native.
 
 "A picture is worth a thousand words"
 
